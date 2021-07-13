@@ -1,0 +1,4 @@
+{
+    "python.analysis.extraPaths": ["./sources"],
+    "python.linting.pylintPath": "${workspaceFolder}\\venv\\Scripts\\pylint.exe"
+}

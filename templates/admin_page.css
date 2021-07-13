@@ -1,0 +1,36 @@
+#info {
+  font-family:'Athiti', sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+#info  td, #id  th {
+  border: 1px solid #ddd;
+  padding: 25px;
+  height: 70px;
+  text-align: center;
+  font-size: 18px;
+
+  
+}
+
+#info  tr:nth-child(even){
+  background-color: rgb(255, 255, 255);}
+
+/* #info  tr:hover {background-color: #ddd; } */
+
+#info  th {
+  border: 1px solid #ddd;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #8c1515;
+  color: rgb(255, 255, 255);
+  font-family:'Athiti', sans-serif;
+  font-size: 20px;
+
+}
+
+
+  
